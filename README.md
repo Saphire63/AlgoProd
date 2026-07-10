@@ -10,7 +10,13 @@ L'algorithmique est une partie de l'informatique que j'aime particulièrement, c
 ## Comment
 #### Pas forcément joli mais avec un bon UX pour permettre compréhensiion et rapidité !
 
-- Html/CSS/[js ou php] 
+- L'interface web en Next.js ou Vue.js; Incluant TypeScript, HTML, CSS.
+- Appli Mobile en React Native pour du TypeScript.
+- API - ASP.NET Core; Incluant C#, REST
+- BDD en PostgreSQL
+
+{{< figure src="architecture_finale_api_web_mobile.svg" >}}
+
 - Plus ordonnancé que possible avec des repertoires et des types d'algos
 - Faire authentification pour ajouter des algos et avoir un/plusieurs cpt admin 
 - base de donnée api externe pour permettre utilisation par tous. 
