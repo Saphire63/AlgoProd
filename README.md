@@ -15,7 +15,8 @@ L'algorithmique est une partie de l'informatique que j'aime particulièrement, c
 - Faire authentification pour ajouter des algos et avoir un/plusieurs cpt admin 
 - base de donnée api externe pour permettre utilisation par tous. 
 
-## Idées 
+## Idées
+
 - Tous le temps utiliser des verbes pour décrire rapidement, ex: algos Dynamique: Calculer-Retenir-Utiliser/Calculer
 - rendre les algos clicables pour permettre description plus précise.
 - catégories populaires dans page acceuil ainsis qu'algorithmes populaire, pour ce faire voir comment collecter les données de navigations avec des cookies. 
