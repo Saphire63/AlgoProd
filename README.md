@@ -14,8 +14,7 @@ L'algorithmique est une partie de l'informatique que j'aime particulièrement, c
 - Appli Mobile en React Native pour du TypeScript.
 - API - ASP.NET Core; Incluant C#, REST
 - BDD en PostgreSQL
-
-{{< figure src="architecture_finale_api_web_mobile.svg" >}}
+![Architecture](./architecture_finale_api_web_mobile.svg)
 
 - Plus ordonnancé que possible avec des repertoires et des types d'algos
 - Faire authentification pour ajouter des algos et avoir un/plusieurs cpt admin 
